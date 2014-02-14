@@ -1,0 +1,27 @@
+{
+  "name": "hello",
+  "version": "0.0.0",
+  "description": "Hello World",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jared6464/node-hello.git"
+  },
+  "keywords": [
+    "heroku",
+    "node"
+  ],
+  "author": "Jared",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jared6464/node-hello/issues"
+  },
+  "homepage": "https://github.com/Jared6464/node-hello",
+  "dependencies": {
+    "logfmt": "~0.21.0",
+    "express": "~3.4.8"
+  }
+}
